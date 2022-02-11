@@ -44,4 +44,4 @@
 使用 Swift Playgrounds 编程，可以在 iPad 本地查看App源代码，并且可以本地原生运行，便利快捷；安装包和编程文件工程二位一体。并且由于Swift UI优越的兼容性，两端编程的语法没有任何区别。
 
 ### 如有疑问，请联系 jackchenjiafan@hotmail.com
-### 线上文件获取：（请等待链接提供）
+### 线上文件获取：Github下载
