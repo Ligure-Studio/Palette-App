@@ -30,7 +30,7 @@
 
 [Swift Playgrounds 下载地址](https://apps.apple.com/cn/app/swift-playgrounds/id908519492 "App Store下载")  
 
-将U盘中的文件导入 iPad “文件” 应用后点击右上角“分享”按钮，选择在 Swift Playgrounds 中打开或直接点击打开  
+将文件导入 iPad “文件” 应用后点击右上角“分享”按钮，选择在 Swift Playgrounds 中打开或直接点击打开  
 
 ## 使用 Swift Pyalgrounds 编写 APP 的原因
 ### Playgrounds 4 本身的优势
