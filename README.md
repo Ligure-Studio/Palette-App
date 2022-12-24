@@ -1,5 +1,6 @@
 # 调色板 - Palette
 ## 使用须知
+### 学业繁忙，暂停维护
 ### 由樊宸嘉设计
 ### 下载最后一个软件包
 ### 软件包请解压后使用
@@ -45,5 +46,5 @@
 
 使用 Swift Playgrounds 编程，可以在 iPad 本地查看App源代码，并且可以本地原生运行，便利快捷；安装包和编程文件工程二位一体。并且由于Swift UI优越的兼容性，两端编程的语法没有任何区别。
 
-### 如有疑问，请联系 jackchenjiafan@hotmail.com
+### 如有疑问，请联系 jackchenjiafan@gmail.com
 ### 线上文件获取：Github下载
