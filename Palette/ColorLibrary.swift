@@ -79,8 +79,6 @@ struct ColorLibrary: View {
     }
     
     func loadData() {
-        UserDefaults.standard.removePersistentDomain(forName: "com.MingS.Palette")
-        UserDefaults.standard.synchronize()
         
         let userDefaults = UserDefaults.standard
         if let savedFileItems = userDefaults.object(forKey: "MyColorItems") as? Data {
